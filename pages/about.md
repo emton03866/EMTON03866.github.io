@@ -4,6 +4,9 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# About Me! :D 
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+I’m a product designer based in San Francisco, CA who loves to see thoughtful design bring people joy! Currently, I am studying UX Design at UC Berkeley's Master of Information Management & Systems. I recently graduated from UC San Diego (class of '22) with a degree in Psychology and a minor in Design. Most recently, I was a UX Designer at a food delivery startup called DormIt. I also have experience in product design through my time as a Design & Innovation intern at the San Diego International Airport (SAN).
+
+When I'm not on Figma, I enjoy eating Viet food, watching cat videos, reading self-help books and hiking.
+
